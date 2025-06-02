@@ -1,3 +1,5 @@
 genai_project/
 __pycache__/
-
+test.ipynb
+config/
+data/
